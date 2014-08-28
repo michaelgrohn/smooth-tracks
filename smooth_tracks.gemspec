@@ -5,7 +5,7 @@ require 'smooth_tracks/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'smooth_tracks'
-  spec.version       = '0.0.2' #SmoothTracks::VERSION
+  spec.version       = '0.0.3' #SmoothTracks::VERSION
   spec.author        = 'Michael Grohn'
   #spec.email         = 'mail@michaelgrohn.de'
   spec.summary       = 'Reusable Convenience Methods for Ruby on Rails.'

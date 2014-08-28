@@ -1,4 +1,4 @@
-module HashExtension do
+module HashExtension
 
   extend ActiveRecord::Concern
 
